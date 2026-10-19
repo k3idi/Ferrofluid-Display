@@ -2,20 +2,25 @@
 
 > ### State of the project: completed
 
-*abstract*
+This was a project I worked on with a partner as part of a university course.
+This type of display uses ferrofluid and magnets to show symbols.
+Usually people use a grid of electromagnets.
+Because we had a limited budget but we still wanted to make a ferrofluid display, then we had to come up with a cheaper solution.
+The goal of the magnets is to pull the ferrofluid close to the screen, which when done in a certain order, allows the fluid to be moved to the desired parts of the display. 
+Instead of using electromagnets, we figured that we could use permanent magnets that we move closer and further away from the display using servos. 
+In the end, this mechanism worked, but we struggled to find a good container for the ferrofluid.
+The best one we found stained very quickly and couldn't handle the pressure exerted by the liquid ferrofluid solution when stood vertically.
+While this project could be considered a failure, then I'm still proud of it and my partner and I received an A for this project.
 
-Why did we choose a mechanical magnet matrix instead of 
+![Ferrufluid Display](media/FERROFLUID_DISPLAY.jpg)
 
-![Sections of the board](media/FERROFLUID_DISPLAY.jpg)
-
-*link to a video of the device being used*
+[Video](https://youtu.be/KwNlmwMZApc) of the display.
 
 ### Sections of the PCB
 
-The design schematic and PCB files can be found [here](link).
+The design schematic and PCB files can be found [here](https://github.com/k3idi/Ferrofluid-Display/tree/main/PCB%20design%20files).
 
 ![Sections of the board](media/BOARD_nrs.png)
-
 
 #### 1. USB C
 
